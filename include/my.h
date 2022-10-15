@@ -53,4 +53,5 @@ int my_is_prime2(int nb);
 int my_getsize(int ac, char **av);
 int check_in_order(int *array, int size);
 char *my_strlowcase2(char *str);
+int my_put_float(double nb);
 #endif
